@@ -9,11 +9,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KavetiShivanjali" alt="shivanjalikaveti" /></a> </p> -->
 
-- 🔭 I’m currently working on **8 weeks SQL challenge**
+- 🔭 I’m currently working on **Capestone projects in NLP, Generative AI**
 
-- 🌱 I’m currently learning **Computer Vision, NLP, Deep Learning**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Data Analysis, ETL, ML**
+- 💬 Ask me about **Data Analysis, ETL, ML,Computer Vision, NLP, Deep Learning**
 
 - 📫 How to reach me **kaveti.shivanjali123@gmail.com**
 
